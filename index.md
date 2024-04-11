@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Krystle Codes: Welcome to my blog
 ---
 
