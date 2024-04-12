@@ -1,6 +1,6 @@
 ---
-title: "About Krystle Codes"
+title: "Coding Diaries"
 date: 2024-04-11
 ---
+A blog space for developers documenting solutions to fix bugs in code. 
 
-This Blog site is a project that documents the lessons and journey Krystle goes on while breaking into the tech industry. 
