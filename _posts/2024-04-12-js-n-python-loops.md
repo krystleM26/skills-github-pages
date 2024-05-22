@@ -27,11 +27,13 @@ while condition:
 ```
 
 ```python
-  if num == 0:
+ if num == 0:
     print("Your num is 0 ")
- else:
-    if num > 0:
+ elif num > 0:
     print( "your num is negative ")
+ else:
+    print(" " )
+    
 
 ### As you can see in the above code blocks, the two iterations are similar when it comes to using the algorithms, but the syntaxes are different
 
