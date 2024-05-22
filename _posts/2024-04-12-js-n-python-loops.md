@@ -26,4 +26,13 @@ while condition:
     statement
 ```
 
+```python
+  if num == 0:
+    print("Your num is 0 ")
+ else:
+    if num > 0:
+    print( "your num is negative ")
+
 ### As you can see in the above code blocks, the two iterations are similar when it comes to using the algorithms, but the syntaxes are different
+
+### Note: Please note that while loops and if-statements in python are booleans 
